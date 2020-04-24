@@ -1,0 +1,83 @@
+arena-start: Que comece o massacre!
+arena-end: Acabou a arena.
+arena-does-not-exist: Esta arena nao existe. Digite &e/ma arenas&r para listar todas arenas.
+arena-end-global: Arena &e%&r acabou! Digite &e/ma j %&r para entrar em uma nova!
+arena-join-global: Arena &e%&r acabou de comecar! Digite &e/ma j %&r para entrar!
+arena-lboard-not-found: Esta arena nao tem um leader, configure-a.
+arena-auto-start: Arena ira comecar automaticamente em &c%&r segundo(s).
+arena-start-delay: Arena pode comecar em &e%&r segundo(s).
+join-not-enabled: MobArena nao esta ativado.
+join-in-other-arena: Voce ja esta em uma arena! Saia desta primeiro.
+join-arena-not-enabled: Esta arena nao esta permitida.
+join-arena-not-setup: Esta arena nao foi configurada ainda.
+join-arena-edit-mode: Esta arena esta em mode de edicao.
+join-arena-permission: Voce nao tem permissao para entrar nessa arena.
+join-fee-required: 'Saldo insuficiente. Preco: &c%&r'
+join-fee-paid: 'Preco para entrar na arena: &c%&r'
+join-arena-is-running: Esta arena esta em progresso.
+join-already-playing: Voce ja esta jogando!
+join-arg-needed: Voce deve especificar uma arena.
+join-no-permission: Voce nao tem permissao para entrar em nenhuma arena.
+join-too-far: Voce esta muito distante da arena para entrar/observar.
+join-empty-inv: Voce deve esvaziar seu inventario para entrar na arena.
+join-player-limit-reached: O limite de jogadores desta arena foi atingido.
+join-store-inv-fail: Falha para guardar o inventario. Tente novamente.
+join-existing-inv-restored: Seu antigo inventario foi restaurado.
+join-after-delay: Entrando na arena em &c%&r segundo(s)...
+join-interrupted-by-damage: Entrada abortada quando voce levou dano.
+join-interrupted-by-movement: Entrada abortado quando voce se moveu.
+join-player-joined: Voce entrou na arena. Divirta-se!
+leave-not-playing: Voce nao esta na arena.
+leave-not-ready: Voce nao esta pronto! Na proxima vez, fique pronto ao clicar no bloco de ferro.
+leave-player-left: Voce saiu da arena. Obrigado por jogar!
+player-died: '&c%&r morreu!'
+golem-died: Um Golem amigavel morreu!
+spec-player-spectate: Aproveite o show!
+spec-from-arena: Aproveite o resto do show!
+spec-not-running: Esta arena nao esta funcionando.
+spec-empty-inv: Esvazie seu inventario primeiro!
+spec-already-playing: Nao pode observar enquanto joga!
+not-ready-players: 'Jogador(es) que nao esta(o) pronto(s): &c%&r'
+force-start-running: Arena ja comecou.
+force-start-not-ready: Nao pode forcar o inicio, nao ha jogadores prontos.
+force-start-started: O inicio da arena foi forcado.
+force-end-empty: Nao ha ninguem nesta arena.
+force-end-ended: O fim da arena foi forcado.
+force-end-idle: Voce nao foi rapido o suficiente!
+rewards-give: Aqui esta(o) toda(s) sua(s) recompensa(s)!
+lobby-drop-item: O compartilhamento nao esta ativado esta vez!
+lobby-player-ready: Voce foi marcado como &apronto&f!
+lobby-pick-class: Voce precisa escolher uma classe primeiro!
+lobby-class-full: Esta classe nao pode ser escolhida mais, o limite foi atingido!
+lobby-not-enough-players: Nao ha jogadores suficientes para iniciar. Precisa de &c%&r jogadores.
+lobby-right-click: Bata na placa. Nao clique com o botao direito.
+lobby-class-picked: Voce escolheu &e%&r como sua classe!
+lobby-class-random: Voce ira inicar a arena com uma classe aleatoria.
+lobby-class-permission: Voce nao tem permissao para escolher essa classe!
+lobby-class-price: Esta classe custa &c%&r (pagie quando entrar na arena).
+lobby-class-too-expensive: Voce nao pode pegar essa classe (&c%&r)
+lobby-no-such-class: Nao ha classe chamada &c%&r.
+not-in-lobby: Voce nao esta no lobby
+warp-to-arena: Teleporte para a arena nao esta permitido!
+warp-from-arena: Teleporte da arena nao esta permitido!
+wave-default: Onda &b#%&r!
+wave-special: Onda &b#%&r! [ESPECIAL]
+wave-swarm: Onda &b#%&r! [ENXAME]
+wave-supply: Onda &b#%&r! [FORNECIMENTO]
+wave-upgrade: Onda &b#%&r! [MELHORIA]
+wave-boss: Onda &b#%&r! [CHEFE]
+wave-boss-ability: 'Chefe abilidade usada: &c%&r!'
+wave-boss-low-health: Chefe esta quase morto!
+wave-boss-killed: '&a%&r matou o chefe!'
+wave-boss-reward-earned: 'Voce ganhou: &e%'
+wave-reward: 'Voce ganhou uma recompensa: &e%&r'
+misc-list-players: 'Jogadores vivos: &a%&r'
+misc-list-arenas: 'Arenas disponiveis: %'
+misc-command-not-allowed: Voce nao pode usar este comando na arena!
+misc-no-access: Voce nao tem acesso a este comando.
+misc-not-from-console: Voce nao pode usar este comando no console.
+misc-help: Para listar todos comandos, digite &e/ma help&r
+misc-multiple-matches: Voce quis dizer um desses comandos?
+misc-no-matches: Comando nao encontrado. Digite &e/ma help&r
+misc-ma-leave-reminder: Lembre de usar &e/ma leave&r quando voce tiver terminado.
+misc-none: '&6<nenhum>&r'
